@@ -52,7 +52,7 @@ export default function About() {
               and solve problems in ways deemed impossible just a few years ago.
             </p>
             <h3>Career</h3>
-            <ul className="list-disc">
+            <ul>
               <li>
                 <em>Jan 2021 - Present:</em> Frontend Engineer Lead @ Parrot Analytics
               </li>
