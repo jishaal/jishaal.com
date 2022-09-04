@@ -23,8 +23,8 @@ export default function About() {
             <h3 className="pt-4 pb-2 text-2xl font-bold leading-8 tracking-tight">
               {siteMetadata.author}
             </h3>
-            <div className="text-gray-500 dark:text-gray-400">Frontend Engineer Lead</div>
-            <div className="text-gray-500 dark:text-gray-400">Parrot Analytics</div>
+            <div className="text-gray-500 dark:text-gray-400">Frontend Engineer</div>
+            <div className="text-gray-500 dark:text-gray-400">Atlassian</div>
             <div className="flex pt-6 space-x-3">
               <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} />
               <SocialIcon kind="github" href={siteMetadata.github} />
@@ -42,7 +42,7 @@ export default function About() {
               height={585}
             /> */}
             <p>
-              I'm a Frontend Engineer with 8+ years in the industry. I work with modern frontend
+              I'm a Frontend Engineer with 9+ years in the industry. I work with modern frontend
               technologies such as React, Redux, Node.js and TypeScript.
             </p>
             <p>
@@ -54,7 +54,10 @@ export default function About() {
             <h3>Career</h3>
             <ul>
               <li>
-                <em>Jan 2021 - Present:</em> Frontend Engineer Lead @ Parrot Analytics
+                <em>Aug 2021 - Present:</em> Frontend Engineer @ Atlassian
+              </li>
+              <li>
+                <em>Jan 2021 - Aug 2022:</em> Frontend Engineer Lead @ Parrot Analytics
               </li>
               <li>
                 <em>Jan 2019 - Jan 2021:</em> Senior Frontend Developer + People Lead @ Xero

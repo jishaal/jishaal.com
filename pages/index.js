@@ -26,7 +26,7 @@ export default function Home({ posts }) {
             </span>
           </h1>
           <h2 className="text-2xl leading-7 text-gray-500 dark:text-gray-400">
-            I'm a Frontend Engineer Lead, technical coach and technology enthusiast.
+            I'm a frontend engineer, technical coach and technology enthusiast.
           </h2>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">
