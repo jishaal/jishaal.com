@@ -54,7 +54,7 @@ export default function About() {
             <h3>Career</h3>
             <ul>
               <li>
-                <em>Aug 2021 - Present:</em> Frontend Engineer @ Atlassian
+                <em>Aug 2022 - Present:</em> Frontend Engineer @ Atlassian
               </li>
               <li>
                 <em>Jan 2021 - Aug 2022:</em> Frontend Engineer Lead @ Parrot Analytics
